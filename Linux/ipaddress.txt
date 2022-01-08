@@ -1,0 +1,22 @@
+
+Windows IP Configuration
+
+
+Ethernet adapter 이더넷:
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::dc16:821c:c093:ef65%9
+   IPv4 Address. . . . . . . . . . . : 192.168.0.103
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 192.168.0.1
+
+Windows IP Configuration
+
+
+Ethernet adapter 이더넷:
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::dc16:821c:c093:ef65%9
+   IPv4 Address. . . . . . . . . . . : 192.168.0.103
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 192.168.0.1

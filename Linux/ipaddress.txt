@@ -2,21 +2,21 @@
 Windows IP Configuration
 
 
-Ethernet adapter ¿Ã¥ı≥›:
+Ethernet adapter √Ä√å¬¥√µ¬≥√ù:
 
    Connection-specific DNS Suffix  . : 
-   Link-local IPv6 Address . . . . . : fe80::dc16:821c:c093:ef65%9
-   IPv4 Address. . . . . . . . . . . : 192.168.0.103
-   Subnet Mask . . . . . . . . . . . : 255.255.255.0
-   Default Gateway . . . . . . . . . : 192.168.0.1
+   Link-local IPv6 Address . . . . . : 
+   IPv4 Address. . . . . . . . . . . : 
+   Subnet Mask . . . . . . . . . . . : 
+   Default Gateway . . . . . . . . . : 
 
 Windows IP Configuration
 
 
-Ethernet adapter ¿Ã¥ı≥›:
+Ethernet adapter √Ä√å¬¥√µ¬≥√ù:
 
    Connection-specific DNS Suffix  . : 
-   Link-local IPv6 Address . . . . . : fe80::dc16:821c:c093:ef65%9
-   IPv4 Address. . . . . . . . . . . : 192.168.0.103
-   Subnet Mask . . . . . . . . . . . : 255.255.255.0
-   Default Gateway . . . . . . . . . : 192.168.0.1
+   Link-local IPv6 Address . . . . . : 
+   IPv4 Address. . . . . . . . . . . : 
+   Subnet Mask . . . . . . . . . . . : 
+   Default Gateway . . . . . . . . . : 
